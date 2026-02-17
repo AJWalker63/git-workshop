@@ -8,6 +8,7 @@ your own "fork".
 ## Workshop Topics
 
 - What is Git
+- What problem does Git solve?
 - How Git works (very briefly)
 - Cloning this repository
 - Making Changes
